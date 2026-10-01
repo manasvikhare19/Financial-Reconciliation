@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Excel / exports
+exports/
+*.xlsx
+!data/sample_*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
