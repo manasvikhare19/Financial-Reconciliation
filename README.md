@@ -196,5 +196,3 @@ The exported Excel workbook (`Financial_Reconciliation_Package_<RunID>.xlsx`) in
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
